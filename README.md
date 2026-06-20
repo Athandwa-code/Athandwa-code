@@ -9,7 +9,7 @@
 
 > An active builder who loves creating applications, designing concurrent systems, and exploring data-driven solutions using machine learning and cloud integrations.
 
-🌐 **[Portfolio](#)** · 💼 **[Projects](#featured-projects)** · 🛠️ **[Tech Stack](#-tech-stack)** · 📫 **[Let's Connect](#-lets-connect)**
+🌐 **[Portfolio](#)** · 💼 **[Projects](#-featured-projects)** · 🛠️ **[Tech Stack](#-tech-stack)** · 📫 **[Let's Connect](#-lets-connect)**
 
 ---
 
