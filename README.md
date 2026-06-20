@@ -35,7 +35,7 @@ As a member of the **Moshal Scholarship program**, I serve in active leadership 
 | Role | Contribution |
 | :--- | :--- |
 | **👥 Peer Mentor (Moshal Buddy Program)** | Acting as a buddy mentor to guide and support fellow scholars. |
-| **🎉 Social Committee Coordinator** | Serving as a Moshal Program Coordinator to handle organization and community logistics. |
+| **🎉 Social Committee Coordinator** | Serving as a Moshal Program Social events Coordinator to handle organization and community logistics. |
 
 ---
 
