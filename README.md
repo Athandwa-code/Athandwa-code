@@ -97,8 +97,8 @@ As a member of the **Moshal Scholarship program**, I serve in active leadership 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athandwa-code&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athandwa-code&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Athandwa-code&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Athandwa-code&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="left">
